@@ -102,24 +102,30 @@
 
 ---
 
+<!--
+  GITHUB STATS: currently disabled because the public hosted cards are down.
+  After deploying your own instances on Vercel, replace the YOUR-... domains below
+  and remove the comment markers around this block to turn them back on.
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammadashar0911&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadashar0911&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="170" src="https://YOUR-STATS-DOMAIN.vercel.app/api?username=mohammadashar0911&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://YOUR-STATS-DOMAIN.vercel.app/api/top-langs/?username=mohammadashar0911&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mohammadashar0911&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://YOUR-STREAK-DOMAIN.vercel.app/?user=mohammadashar0911&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ### 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammadashar0911&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub trophies" />
+  <img src="https://YOUR-TROPHY-DOMAIN.vercel.app/?username=mohammadashar0911&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub trophies" />
 </p>
+-->
 
 ---
 
