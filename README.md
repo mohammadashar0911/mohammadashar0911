@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mohammad%20Ashar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%C2%B7%20AI%20%C2%B7%20Full-Stack%20Developer&descSize=20&descAlignY=60" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Mohammad%20Ashar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%C2%B7%20AI%20%C2%B7%20VibeCoder%20%C2%B7%20Entrepreneur&descSize=20&descAlignY=60" alt="header" />
 </p>
 
 <p align="center">
@@ -34,8 +34,8 @@
 
 | Project | About |
 | --- | --- |
-| 🛡️ [**CensorX**](https://censorx.in/) | AI-powered content moderation that detects explicit content, abusive language and threats in real time across chats, images and videos, built to keep kids and teens safer online. |
-| 🌐 [**AstronexLabs**](https://www.astronexlabs.tech/) | A freelance IT studio building websites, custom CRMs, mobile apps, e-commerce stores, and AI-driven automations for businesses. |
+| [**CensorX**](https://censorx.in/) | AI-powered content moderation that detects explicit content, abusive language and threats in real time across chats, images and videos, built to keep kids and teens safer online. |
+| [**AstronexLabs**](https://www.astronexlabs.tech/) | A freelance IT studio building websites, custom CRMs, mobile apps, e-commerce stores, and AI-driven automations for businesses. |
 
 ---
 
@@ -103,14 +103,11 @@
 ---
 
 ## 📊 GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadashar0911&show_icons=true&locale=en&layout=compact" alt="mohammadashar0911" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadashar0911&show_icons=true&locale=en" alt="mohammadashar0911" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadashar0911&" alt="mohammadashar0911" /></p>
-
----
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=mohammadashar0911&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" />
+  <br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
+</p>
 
 ## 📫 Connect With Me
 
@@ -123,5 +120,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" alt="footer" />
 </p>
