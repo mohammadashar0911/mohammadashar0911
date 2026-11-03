@@ -102,30 +102,13 @@
 
 ---
 
-<!--
-  GITHUB STATS: currently disabled because the public hosted cards are down.
-  After deploying your own instances on Vercel, replace the YOUR-... domains below
-  and remove the comment markers around this block to turn them back on.
-
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://YOUR-STATS-DOMAIN.vercel.app/api?username=mohammadashar0911&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://YOUR-STATS-DOMAIN.vercel.app/api/top-langs/?username=mohammadashar0911&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadashar0911&show_icons=true&locale=en&layout=compact" alt="mohammadashar0911" /></p>
 
-### 🔥 GitHub Streak
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadashar0911&show_icons=true&locale=en" alt="mohammadashar0911" /></p>
 
-<p align="center">
-  <img src="https://YOUR-STREAK-DOMAIN.vercel.app/?user=mohammadashar0911&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-### 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://YOUR-TROPHY-DOMAIN.vercel.app/?username=mohammadashar0911&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub trophies" />
-</p>
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadashar0911&" alt="mohammadashar0911" /></p>
 
 ---
 
